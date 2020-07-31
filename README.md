@@ -1,12 +1,12 @@
 ### Hi there 👋
-- 🔭 AR Designer | UI/UX Designing | Game Designer
-- 💬 Ask me about all the game issues.
-- 👯 Check out games vreated by me its in my Github.
-- 📫 How to reach me:  [Twitter](https://twitter.com/_christyv_8)   [LinkedIn](https://www.linkedin.com/in/christy-varghese/)
+- 🤺 Datascientist/Analyst | UI/UX Designing | App Developer
+- 👾 A technology enthusiast that has answers to it all.
+- 🦈 Check out my Github page [Resume32R](https://anandur32.github.io/Resume32R/).
+- 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/christy-varghese/) [Twitter](https://twitter.com/_christyv_8)   
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Christy-Varghese&count_private=true&show_icons=true&bg_color=F7F9F9" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnanduR32&count_private=true&show_icons=true&bg_color=F7F9F9" />
 <!--
-*Christy-Varghese/Christy-Varghese is a ✨special ✨ repository that you can use to add a README.md to your GitHub profile. Make sure it’s public and initialize it with a README to get started.
+*AnanduR32/AnanduR32 is a ✨special ✨ repository that you can use to add a README.md to your GitHub profile. Make sure it’s public and initialize it with a README to get started.
 
 Here are some ideas to get you started:
 
