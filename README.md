@@ -2,7 +2,7 @@
 - 🤺 Datascientist/Analyst | UI/UX Designing | App Developer
 - 👾 A technology enthusiast that has answers to it all.
 - 🦈 Check out my Github page [Resume32R](https://anandur32.github.io/Resume32R/).
-- 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/christy-varghese/) [Twitter](https://twitter.com/_christyv_8)   
+- 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/anandur32/) [Twitter](https://twitter.com/AquaRegis32)   
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnanduR32&count_private=true&show_icons=true&bg_color=F7F9F9" />
 <!--
