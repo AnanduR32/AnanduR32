@@ -3,6 +3,7 @@
 <ul>
   <li>👾 A technology enthusiast that has answers to it all.</li>
   <li>🦈 Check out my Github page <a href="https://anandur32.github.io/Resume32R/">Resume32R</a></li>
+  <li>📚 Read some of my medium posts <a href="https://aquaregis32.medium.com/">medium</a></li>
   <li>📫 How to reach me:  <a href="https://twitter.com/AquaRegis32">Twitter</a> <a href="https://www.linkedin.com/in/anandur32/">LinkedIn</a></li>
 </ul>
 <h3>Check out my datascience projects</h3>
