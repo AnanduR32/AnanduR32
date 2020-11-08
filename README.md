@@ -8,7 +8,7 @@
 <h3>Check out my datascience projects</h3>
 <ul>
   <li><a href="https://www.kaggle.com/aquaregis32"><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" height="20" width="20" align="center"> Kaggle</a></li>
-  <li><a href="https://rpubs.com/aquaregis32/"><img src="https://c7.uihere.com/files/440/260/837/rstudio-integrated-development-environment-computer-software-graphical-user-interface-blue-technology.jpg" height="20" width="20" align="center"> rpubs</a></li>
+  <li><a href="https://rpubs.com/aquaregis32/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTOj5Z1YZnSJisLbLFCy-RVV_B4fmB1JGvaA&usqp=CAU" height="20" width="20" align="center"> rpubs</a></li>
   <li><a href="https://github.com/AnanduR32/Datascience"><img src="https://www.flaticon.com/svg/static/icons/svg/25/25231.svg" height="20" width="20" align="center"> Github Datascience repo</a></li>
 </ul>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnanduR32&count_private=true&show_icons=true&bg_color=F7F9F9" />
