@@ -1,21 +1,16 @@
-### Hi there 👋
-- 🤺 Datascientist/Analyst | UI/UX Designing | App Developer
-- 👾 A technology enthusiast that has answers to it all.
-- 🦈 Check out my Github page [Resume32R](https://anandur32.github.io/Resume32R/).
-- 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/anandur32/) [Twitter](https://twitter.com/AquaRegis32)   
+<h1 align="center">Anandu R</h1>
+<h2 align="center">🤺 Datascientist/Analyst | UI/UX Designing | App Developer</h2> 
+<ul>
+  <li>👾 A technology enthusiast that has answers to it all.</li>
+  <li>🦈 Check out my Github page <a href="https://anandur32.github.io/Resume32R/">Resume32R</a></li>
+  <li>📫 How to reach me:  <a href="https://twitter.com/AquaRegis32">Twitter</a> <a href="https://www.linkedin.com/in/anandur32/">LinkedIn</a></li>
+</ul>
+<h3>Check out my works</h3>
+<ul>
+  <li><a href="https://www.kaggle.com/aquaregis32">Kaggle</a></li>
+  <li><a href="https://rpubs.com/aquaregis32/">rpubs</a></li>
+</ul>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnanduR32&count_private=true&show_icons=true&bg_color=F7F9F9" />
-<!--
-*AnanduR32/AnanduR32 is a ✨special ✨ repository that you can use to add a README.md to your GitHub profile. Make sure it’s public and initialize it with a README to get started.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
