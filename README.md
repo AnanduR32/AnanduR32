@@ -13,4 +13,20 @@
 </ul>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnanduR32&count_private=true&show_icons=true&bg_color=F7F9F9" />
 
+<h3>{...} Stack</h3>   
+
+```json
+{
+   "Languages": ["Python", "Java", "C", "SQL", "RDMS"],
+   "Tools": ["Tableau", "PowerBI", "Jupyter", "RStudio"],
+   "Mobile framework":["Flutter", "Native"],
+   "Backend": ["Firebase","Flask"],
+   "Database": ["MySql","MS SQL Server"],
+   "Cloud": ["GCP"],
+   "ML framework":["Scikit-learn","Tensorflow","caTools", "caret"],
+   "Modules & Library":["Pandas","Numpy","Scipy","Matplotlib & seaborn","re","Beautifulsoup","Selenium", "SpeechRecognition","nltk","dplyr", "stringr","etc"],
+                          
+   "Machine Learning Algorithms": ["Linear Regression","Logistic Regression","KNeighborsRegressor","LDA and SVD","DecisionTree", "RandomForest","SVM","KNN","Naive Bayes","XGBoost","Lasso", "K-means","Model Validation","Feature Selection","Dimensionality Reduction"]
+}
+```
 
