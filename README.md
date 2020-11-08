@@ -24,9 +24,13 @@
    "Database": ["MySql","MS SQL Server"],
    "Cloud": ["GCP"],
    "ML framework":["Scikit-learn","Tensorflow","caTools", "caret"],
-   "Modules & Library":["Pandas","Numpy","Scipy","Matplotlib & seaborn","re","Beautifulsoup","Selenium", "SpeechRecognition","nltk","dplyr", "stringr","etc"],
+   "Modules & Library":["Pandas","Numpy","Scipy","Matplotlib & seaborn","re","Beautifulsoup",
+                        "Selenium", "SpeechRecognition","nltk","dplyr", "stringr","etc"],
                           
-   "Machine Learning Algorithms": ["Linear Regression","Logistic Regression","KNeighborsRegressor","LDA and SVD","DecisionTree", "RandomForest","SVM","KNN","Naive Bayes","XGBoost","Lasso", "K-means","Model Validation","Feature Selection","Dimensionality Reduction"]
+   "Machine Learning Algorithms": ["Linear Regression","Logistic Regression","KNeighborsRegressor",
+                                   "LDA and SVD","DecisionTree", "RandomForest","SVM","KNN",
+                                   "Naive Bayes","XGBoost","Lasso", "K-means","Model Validation",
+                                   "Feature Selection","Dimensionality Reduction"]
 }
 ```
 
