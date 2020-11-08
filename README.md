@@ -11,9 +11,8 @@
   <li><a href="https://rpubs.com/aquaregis32/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTOj5Z1YZnSJisLbLFCy-RVV_B4fmB1JGvaA&usqp=CAU" height="20" width="20" align="center"> rpubs</a></li>
   <li><a href="https://github.com/AnanduR32/Datascience"><img src="https://www.flaticon.com/svg/static/icons/svg/25/25231.svg" height="20" width="20" align="center"> Github Datascience repo</a></li>
 </ul>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnanduR32&count_private=true&show_icons=true&bg_color=F7F9F9" />
 
-<h3>{...} Stack</h3>   
+<h3>{...} Stack</h3>
 
 ```json
 {
@@ -34,5 +33,9 @@
 }
 ```
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnanduR32&show_icons=true&theme=default" alt="AnanduR32" /> </h1>
+<div display="block" overflow="auto">
+  <img position="absolute" align="left" src="https://github-readme-stats.vercel.app/api?username=AnanduR32&count_private=true&show_icons=true&bg_color=F7F9F9" />
+  <img position="absolute" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnanduR32&show_icons=true&theme=default" alt="AnanduR32"/>
+</div>
+
 
