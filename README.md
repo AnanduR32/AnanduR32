@@ -16,7 +16,7 @@
 
 ```json
 {
-   "Languages": ["Python", "Java", "C", "SQL", "RDMS"],
+   "Languages": ["Python", "Java", "C", "SQL", "RDMS", "R"],
    "Tools": ["Tableau", "PowerBI", "Jupyter", "RStudio"],
    "Mobile framework":["Flutter", "Native"],
    "Backend": ["Firebase","Flask"],
