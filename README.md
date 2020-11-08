@@ -34,3 +34,5 @@
 }
 ```
 
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnanduR32&show_icons=true&theme=default" alt="AnanduR32" /> </h1>
+
