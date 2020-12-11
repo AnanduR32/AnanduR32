@@ -35,9 +35,5 @@
 }
 ```
 
-<div display="block" overflow="auto">
-  <img position="absolute" align="left" src="https://github-readme-stats.vercel.app/api?username=AnanduR32&count_private=true&show_icons=true&bg_color=F7F9F9" />
-  <img position="absolute" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnanduR32&show_icons=true&theme=default" alt="AnanduR32"/>
-</div>
 
 
