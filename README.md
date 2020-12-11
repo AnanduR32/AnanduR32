@@ -10,7 +10,7 @@
 <h3>Check out my datascience projects</h3>
 <ul>
   <li><a href="https://www.kaggle.com/aquaregis32"><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" height="20" width="20" align="center"> Kaggle</a></li>
-  <li><a href="https://rpubs.com/aquaregis32/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTOj5Z1YZnSJisLbLFCy-RVV_B4fmB1JGvaA&usqp=CAU" height="20" width="20" align="center"> rpubs</a></li>
+  <li><a href="https://rpubs.com/aquaregis32/"><img src="images/rstudio-icon.png" height="20" width="20" align="center"> rpubs</a></li>
   <li><a href="https://github.com/AnanduR32/Datascience"><img src="https://www.flaticon.com/svg/static/icons/svg/25/25231.svg" height="20" width="20" align="center"> Github Datascience repo</a></li>
 </ul>
 
