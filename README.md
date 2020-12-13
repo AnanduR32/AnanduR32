@@ -11,8 +11,8 @@
 <ul>
   <li><a href="https://www.kaggle.com/aquaregis32"><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" height="20" width="20" align="center"> Kaggle</a></li>
   <li><a href="https://rpubs.com/aquaregis32/"><img src="images/rstudio-icon.png" height="20" width="20" align="center"> rpubs</a></li>
-  <li><a href="https://github.com/AnanduR32/Datascience"><img src="images/data-science.png" height="20" width="20" align="center">Data Science repo</a></li>
-  <li><a href="https://github.com/AnanduR32/MachineLearning-Basics"><img src="images/machine-learning.png" height="20" width="20" align="center">Machine Learning repo</a></li>
+  <li><a href="https://github.com/AnanduR32/Datascience">Data Science repo</a></li>
+  <li><a href="https://github.com/AnanduR32/MachineLearning-Basics">Machine Learning repo</a></li>
 </ul>
 
 <h3>{...} Stack</h3>
